@@ -1,2 +1,2 @@
-# rocketseat_HTML
+# starter_HTML
 aplicações do curso de HTML 
